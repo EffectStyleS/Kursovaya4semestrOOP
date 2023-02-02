@@ -1,0 +1,21 @@
+C:\Users\Сергей\Source\Repos\sf c sharp\bin\Debug\sf c sharp.exe.config
+C:\Users\Сергей\Source\Repos\sf c sharp\bin\Debug\sf c sharp.exe
+C:\Users\Сергей\Source\Repos\sf c sharp\bin\Debug\sf c sharp.pdb
+C:\Users\Сергей\Source\Repos\sf c sharp\obj\Debug\sf c sharp.csprojAssemblyReference.cache
+C:\Users\Сергей\Source\Repos\sf c sharp\obj\Debug\sf c sharp.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Source\Repos\sf c sharp\obj\Debug\sf c sharp.exe
+C:\Users\Сергей\Source\Repos\sf c sharp\obj\Debug\sf c sharp.pdb
+C:\Users\Сергей\Source\Repos\sf c sharp\obj\Debug\sf c sharp.csproj.CopyComplete
+C:\Users\Сергей\Source\Repos\sf c sharp\bin\Debug\sfml-audio.dll
+C:\Users\Сергей\Source\Repos\sf c sharp\bin\Debug\sfml-graphics.dll
+C:\Users\Сергей\Source\Repos\sf c sharp\bin\Debug\sfml-system.dll
+C:\Users\Сергей\Source\Repos\sf c sharp\bin\Debug\sfml-window.dll
+F:\Моё\Repos\sf c sharp\bin\Debug\sf c sharp.exe.config
+F:\Моё\Repos\sf c sharp\bin\Debug\sf c sharp.exe
+F:\Моё\Repos\sf c sharp\bin\Debug\sf c sharp.pdb
+F:\Моё\Repos\sf c sharp\obj\Debug\sf c sharp.csproj.AssemblyReference.cache
+F:\Моё\Repos\sf c sharp\obj\Debug\sf c sharp.csproj.SuggestedBindingRedirects.cache
+F:\Моё\Repos\sf c sharp\obj\Debug\sf c sharp.csproj.CoreCompileInputs.cache
+F:\Моё\Repos\sf c sharp\obj\Debug\sf c sharp.csproj.CopyComplete
+F:\Моё\Repos\sf c sharp\obj\Debug\sf c sharp.exe
+F:\Моё\Repos\sf c sharp\obj\Debug\sf c sharp.pdb
